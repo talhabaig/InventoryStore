@@ -1,0 +1,2 @@
+# InventoryStore
+Manage InventorY
